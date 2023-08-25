@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+fieldset{
+    justify-content: center;
+    text-align: center;
+    
+
+}
+input{
+    width: 300px;
+    height: 40px;
+
+}
+h2{
+    margin: 40px 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: blue;
+    border: none;
+    border-radius: 30px;
+    margin: 7px;
+    text-shadow: 0px 4pt 2px white;
+    font-size: 1rem;
+}
+.btn{
+    background-color: white;
+    border: none;
+}
